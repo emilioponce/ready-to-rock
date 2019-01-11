@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component Band snapshot renders correctly 1`] = `
+<div
+  className="band"
+>
+  <h1>
+    Band name
+  </h1>
+  <div
+    className="body"
+    dangerouslySetInnerHTML={
+      Object {
+        "__html": "<div>bla bla bla</div>",
+      }
+    }
+  />
+  <div>
+    <h2>
+      Members:
+    </h2>
+    <span
+      className="members"
+    >
+      <ul>
+        <li
+          className="member"
+          key="member1"
+        >
+          member1
+           - 
+          instrument1
+        </li>
+        <li
+          className="member"
+          key="member2"
+        >
+          member2
+           - 
+          instrument2
+        </li>
+      </ul>
+    </span>
+  </div>
+</div>
+`;

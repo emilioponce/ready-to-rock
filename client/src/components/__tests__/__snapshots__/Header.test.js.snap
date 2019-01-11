@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component Header snapshot renders correctly 1`] = `
+<div
+  className="wrapper"
+>
+  <div
+    className="header"
+  >
+    <img
+      alt="Ready to rock Barcelona"
+      className="logo"
+      src="logo.svg"
+    />
+    <div
+      className="title"
+    >
+      Ready to rock Barcelona
+    </div>
+    <div
+      className="subtitle"
+    >
+      A tool for browsing and filtering local bands
+    </div>
+  </div>
+</div>
+`;

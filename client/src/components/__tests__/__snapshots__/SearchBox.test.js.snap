@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component SearchBox snapshot renders correctly 1`] = `
+<div
+  className="searchBox"
+>
+  <div>
+    <input
+      className="input"
+      onChange={[Function]}
+      onKeyPress={[Function]}
+      placeholder="Enter text .."
+      type="text"
+      value=""
+    />
+    <button
+      className="button"
+      onClick={[Function]}
+    >
+      Search
+    </button>
+  </div>
+</div>
+`;

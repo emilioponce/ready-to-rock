@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component Footer snapshot renders correctly 1`] = `
+<div
+  className="footer"
+>
+  <div
+    className="text"
+  >
+    Ready to rock Barcelona by now is only a proof of concept for testing purposes..
+  </div>
+</div>
+`;

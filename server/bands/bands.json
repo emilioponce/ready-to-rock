@@ -1,0 +1,37 @@
+{
+  "bands": [
+    {
+      "id": 1,
+      "title": "Valence",
+      "body": "<div><img src='https://f4.bcbits.com/img/0004410098_10.jpg'><p>Valence was an instrumental rock band based in Barcelona, Spain.</p><p>Their name was taken from a psychological term that's used to classify emotions and moods, and this is something that after some time, no one in the group wanted to explain in the few interviews they had.<p> The band was formed in 2012 only with two members, guitar and drums. After some time working in a garage, since 2015 they become 4: Two guitars, bass and drums and the band became more solid. They released 3 self-edited EPs, last one on September 2017. Now they are in a spare time period, living life till someone claim his music.<p><a href='https://valenceband.bandcamp.com/'>Bandcamp</a</p><div>",
+      "members": [ 
+        { "name": "Rubén Lozano", "instrument": "guitar"},
+        { "name": "Emilio Ponce", "instrument": "drums"},
+        { "name": "Guillem Babot", "instrument": "guitar"},
+        { "name": "Mario Rebollo", "instrument": "bass"}
+      ]
+    }, {
+      "id": 2,
+      "title": "The Story So Far (test band)",
+      "body": "<div><img src='https://ksassets.timeincuk.net/wp/uploads/sites/55/2016/04/2013TheStorySoFar_Press_MattVincent091013-1.jpg'><p>The Story So Far formed in Walnut Creek, California in 2007. Their name is taken from the New Found Glory song \"The Story So Far\".</p><p>The band consisted of Parker Cannon on vocals, Kevin Geyer and Kevin Ambrose on guitar, Ryan Torf on drums, and Kelen Capener on bass. On December 22, the band released the 5 Songs EP. Ambrose parted ways with the band when he went to college in 2010 and he was replaced by William Levy. In March 2010 it was announced the band had signeping (2010).In November, the band released a split with Maker.</p></div>",
+      "members": [
+        { "name": "Parker Cannon", "instrument": "vocals"},
+        { "name": "Kelen Capener", "instrument": "bass"},
+        { "name": "Kevin Geyer", "instrument": "guitar"},
+        { "name": "Ryan Torf", "instrument": "drums"},
+        { "name": "Will Levy", "instrument": "guitar"}
+      ]
+    }, {
+      "id": 3,
+      "title": "Mastodon (test band)",
+      "body": "<div><img src='https://cdn.viagogo.net/img/cat/13489/1/37.jpg'><p>Mastodon is an American heavy metal band from Atlanta, Georgia, formed in 2000.</p><p>Mastodon has released seven studio albums, as well as a number of other releases. The band's 2002 debut album, Remission, garnered significant critical acclaim for its unique sound. Mastodon's second full-length release, Leviathan, is a concept album based on the novel Moby-Dick by Herman Melville.</p><p>Three magazines awarded the record Album of the Year in 2004: Revolver, Kerrang! and Terrorizer.</p></div>",
+      "members": [
+        { "name": "Eric Saner", "instrument": "vocals"},
+        { "name": "Brann Dailor", "instrument": "drums"},
+        { "name": "Brent Hinds", "instrument": "lead guitar"},
+        { "name": "Bill Kelliher", "instrument": "guitar"},
+        { "name": "Troy Sanders", "instrument": "bass"}
+      ]
+    }
+  ]
+}

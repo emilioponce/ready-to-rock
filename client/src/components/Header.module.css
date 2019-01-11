@@ -1,0 +1,35 @@
+.wrapper {
+  background-color: #fff;
+  color: #333333;
+  height: 100%;
+  box-shadow: 0 4px 5px -2px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  padding: 15px;
+}
+
+.logo {
+  height: 35px;
+}
+
+.title {
+  font-size: 140%;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-size: 100%;
+  margin-left: 10px;
+}
+
+.a,
+.a:visited {
+  color: white;
+}

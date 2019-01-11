@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component BandsList snapshot renders correctly 1`] = `
+<div>
+  <Band />
+  <Navigation
+    current={0}
+    handleClick={[Function]}
+    size={4}
+  />
+</div>
+`;

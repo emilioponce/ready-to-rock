@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component App snapshot renders correctly 1`] = `
+<div
+  className="app"
+>
+  <Header />
+  <Content />
+  <Footer />
+</div>
+`;

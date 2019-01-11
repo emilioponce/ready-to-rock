@@ -1,0 +1,23 @@
+.content {
+  margin: auto;
+  width: 70%;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding: 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(235, 235, 235);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+}
+
+.content .button {
+  background-color: #767e8d;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  margin: 0 10px 0 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}

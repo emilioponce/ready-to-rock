@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component Navigation snapshot renders correctly 1`] = `
+<div
+  className="navigation"
+>
+  <button
+    className="button"
+    id="prev"
+    onClick={[MockFunction]}
+  >
+    Prev
+  </button>
+  <span
+    className="page"
+  >
+    2
+     from 
+    24
+  </span>
+  <button
+    className="button"
+    id="next"
+    onClick={[MockFunction]}
+  >
+    Next
+  </button>
+</div>
+`;
